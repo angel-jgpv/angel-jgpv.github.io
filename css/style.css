@@ -1,0 +1,125 @@
+
+h1
+{
+    font-size: 3em;
+    color:yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2
+{
+    font-size: 2.5em;
+    color:yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h3
+{
+    font-size: 2.2em;
+    color:yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+p
+{
+    font-size: 1.25em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+a:link 
+{
+ color:yellow;
+}
+
+a:hover 
+{
+ color:yellow;
+}
+
+a:visited 
+{
+    color:yellow;
+}
+
+li
+{
+    font-size: 1.25em;
+    font-family: 'OCR A Std', monospace;
+}
+
+caption
+{
+    font-size: 2.5em;
+    color:yellow;
+    font-weight:bold;
+    font-family: 'OCR A Std', monospace;
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    font-family: 'OCR A Std', monospace;
+}
+
+thead
+{
+     font-size: 1.5em;
+     color:black;
+     background-color: #d7e973;
+     font-family: 'OCR A Std', monospace;
+    }
+
+tbody
+{
+     font-size: 1.25em;
+     color:black;
+     background-color: yellow;
+     font-family: 'OCR A Std', monospace;
+    }
+
+tfoot
+{
+    font-size: 0.75em;
+    color:black;
+    background-color: yellow; 
+    font-family: 'OCR A Std', monospace;
+}
+
+label
+{
+    font-size: 18px;
+    font-family: 'OCR A Std', monospace;
+}
+
+input
+{
+    font-size: 14px;
+    color: yellow;
+    font-family: 'OCR A Std', monospace;
+}
+
+figcaption
+{
+    font-size: 15px;
+    color: yellow;
+    font-family: 'OCR A Std', monospace;
+}
+
+.centrotxt
+{
+    text-align: center;
+}
+
+.centro
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.autor
+{
+font-size: 2em;
+color: yellow;
+}
