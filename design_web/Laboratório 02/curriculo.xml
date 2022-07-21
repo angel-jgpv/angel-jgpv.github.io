@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Curriculo>
+    <Informaçôes>
+        <Pessoais>
+            <Nome> Dovmoki Zorat </Nome>
+            <Idade> 46 anos </Idade>
+            <EstadoC> Solteiro </EstadoC>
+            <Endereço> São Paulo </Endereço>
+            <Contato>
+            <Email tipo="Profissional"> zorat.dovmoki@optiplex.br </Email>
+            <NúmeroDeTelefone tipo="movel"> (22)98242-1462 </NúmeroDeTelefone>
+            </Contato>
+        </Pessoais>
+    </Informaçôes>
+    <Experiência>
+    <Profissão> Professor de Programação </Profissão>
+    <LocalDeTrabalho> Universidade Cidade de São Paulo (UNICID) </LocalDeTrabalho>
+     <Habilidades>
+    <LingProgramação>Estudei por 25 anos as seguintes linguagens de Programação:JavaScript,Phyton,Java,Php,C#,C/C++.</LingProgramação>
+    <Educação>Doutorado em Ciência Da Computação </Educação>
+    <Universidade> Universidade Cidade de São Paulo (UNICID) </Universidade>
+    <Desempenho>
+    <Média> Formado com média 9,5 </Média>
+    <TCC> Obtive nota 10 no meu TCC </TCC>
+    </Desempenho>
+    </Habilidades>
+    </Experiência>
+    </Curriculo>

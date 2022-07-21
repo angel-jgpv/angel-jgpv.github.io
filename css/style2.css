@@ -1,0 +1,138 @@
+
+h1
+{
+    font-size: 3.0em;
+    color:yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2
+{
+    font-size: 2.5em;
+    color:yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+h3
+{
+    font-size: 2.2em;
+    color:yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p
+{
+    font-size: 1.15em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+dt{
+
+    font-size: 1.20em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+dd{
+    font-size: 1.15em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:link 
+{
+ color:yellow;
+}
+
+a:hover 
+{
+ color:yellow;
+}
+
+a:visited 
+{
+    color:yellow;
+}
+
+li
+{
+    font-size: 1.25em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+caption
+{
+    font-size: 2.5em;
+    color:yellow;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+thead
+{
+     font-size: 1.5em;
+     color:black;
+     background-color: #d7e973;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+tbody
+{
+     font-size: 1.25em;
+     color:black;
+     background-color: yellow;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+tfoot
+{
+    font-size: 0.75em;
+    color:black;
+    background-color: yellow; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+label
+{
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input
+{
+    font-size: 15px;
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+figcaption
+{
+    font-size: 15px;
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+form 
+
+.centrotxt
+{
+    text-align: center;
+}
+
+.centro
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.autor
+{
+font-size: 2em;
+color: yellow;
+}
