@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(2,27,38);
+}
+main{
+    background-color: white;
+}
+blockquote, main footer{
+ 
+    background-color: rgb(195, 227,245 );
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
+nav a{
+color: white;
+}
+nav li{
+    padding: 20px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
+li{
+
+    color : white;
+}
+h1 
+{
+    color: white;
+}
+    footer ul {
+        display: flex;
+    }
+
+    header,main,footer
+    {
+        width: 900px;
+        margin: auto;
+    }
+#banner{
+    
+
+}
