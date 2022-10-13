@@ -3,6 +3,7 @@ body{
 }
 main{
     background-color: white;
+    padding: 20px;
 }
 blockquote, main footer{
  
@@ -29,10 +30,23 @@ header{
 li{
 
     color : white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 h1 
 {
     color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h2 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
     footer ul {
         display: flex;
@@ -44,6 +58,8 @@ h1
         margin: auto;
     }
 #banner{
-    
-
+ background-image: url(../imagens/surf.png);
+ background-repeat: no-repeat;
+ width: 900px;
+ height: 300px;
 }
