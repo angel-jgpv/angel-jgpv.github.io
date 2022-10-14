@@ -1,49 +1,149 @@
-body{
-    background-color: rgb(2,27,38);
+body {
+    background-color:rgb(2, 27, 38);
 }
-main{
-    background-color: white;
+main {
+    background-color: #fff;
 }
-blockquote, main footer{
- 
-    background-color: rgb(195, 227,245 );
+blockquote, main footer {
+    background-color: rgb(195, 227, 245);
 }
-nav ul{
+
+header {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    list-style: none;
+    justify-content:space-between;
 }
-nav a{
-color: white;
+
+header h1 {
+    color: #fff;
 }
-nav li{
+nav ul {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    list-style:none;
+}
+
+nav li {
+    margin: 8px;
     padding: 20px;
+}
+
+nav a {
+    color:#fff;
+}
+a{ 
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8em;
+    color:rgb(0, 117, 156);
+}
+li{
+    color:white;
+}
+h1,h2,h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+figcaption{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header{
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-    list-style: none;
+    flex-direction: row;
 }
-li{
-
-    color : white;
+header,main,footer{
+    box-sizing: border-box;
+    padding: 15px;
+    width: 900px;
+    margin: auto;
 }
-h1 
-{
+#banner1{
+    background-image: url(../imagens/surf.png);
+    background-repeat: no-repeat;
+    background-position: 0 5px;
+    background-size: 80% 95%;
     color: white;
+    height: 400px;
+    width: 100%;
+    box-sizing: border-box;
+    background-attachment: fixed;
 }
-    footer ul {
-        display: flex;
-    }
+#banner1 h2{
+    font-size: 3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0 0 0 50px;
+    padding: 80px 0 0 0;
+}   
+#banner1 p{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 17px;
+   margin: -70px 0 0 50px;
+   padding: 80px 0 0 0;
+}
 
-    header,main,footer
-    {
-        width: 900px;
-        margin: auto;
-    }
-#banner{
+#info{
+    display: flex;
+    flex-direction: row;
+}
+#info div{
+    background-color:rgb(1, 92, 122);
+    color: white;
+    width: 104.5px;
+    padding: 40px;
+    margin: 10px
+}
+#info1{
+    margin-left: 0;
+}
+#info3{
+    margin-right:0 ;
+}
+#info p{
+    margin: 7px 0 7px 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.info h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.info p{
+    margin:5px 0 5px 0 ;
+    font-size: 0.9em;
+}
+.info button{
+    background-color: rgb(60, 206, 255);
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    border: none;
+    padding: 7px;
+}
+#conq figure{
+    margin:0;
+    display: flex;
+    flex-direction: row;
+}
+#conq img{
+    margin: 0 10px 0 0 ;
+    height: 100%;
+}
+#conq figcaption{
+    width: 320px;
+}
+#depo{
+    width: 400px;
+}
+#depo blockquote{
+    color: black;
+    padding: 30px;
+    margin: 0 0 25px 10px;
     
-
 }
