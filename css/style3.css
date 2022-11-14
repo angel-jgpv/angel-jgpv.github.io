@@ -126,17 +126,17 @@ header h1{
     flex-direction: row;
 }
 #conq{
-    flex-direction: row;
     margin: 0;
-    display: flex;
+
 }
 #conq figure{
-    margin 0;
+    margin: 0;
     display: flex;
     flex-direction: row;
 }
 #conq img {
-    margin: 0 20px 0 0;
+    margin: 0 10px 0 0;
+    width: 300px;
     height: 100%;
 }
 #conq figcaption{
