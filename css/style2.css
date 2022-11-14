@@ -56,11 +56,11 @@ a:visited
 
 li
 {
-<<<<<<< HEAD
+
     font-size: 1.25em;
-=======
+
     font-size: 1.1em;
->>>>>>> cfa4464d642c62e1b1b78f4f6f36afa1241f6612
+
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -115,7 +115,7 @@ input
     font-size: 15px;
     color: yellow;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+}
 figcaption
 {
     font-size: 15px;
