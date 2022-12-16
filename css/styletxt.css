@@ -3,14 +3,14 @@ h1
 {
     font-size: 3.0em;
     text-align: center;
-    color:yellow;
+    color:rgb(31, 124, 201);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h2
 {
     font-size: 2.5em;
-    color:yellow;
+    color:rgb(31, 124, 201);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -23,7 +23,7 @@ img{
 h3
 {
     font-size: 2.2em;
-    color:yellow;
+    color:rgb(31, 124, 201);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -47,17 +47,17 @@ dd{
 
 a:link 
 {
- color:yellow;
+ color:rgb(31, 124, 201);;
 }
 
 a:hover 
 {
- color:yellow;
+  color:rgb(31, 124, 201);;
 }
 
 a:visited 
 {
-    color:yellow;
+    color:rgb(31, 124, 201);
 }
 
 li
@@ -69,7 +69,7 @@ li
 caption
 {
     font-size: 2.5em;
-    color:yellow;
+    color:rgb(31, 124, 201);
     font-weight:bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -94,7 +94,7 @@ tbody
 {
      font-size: 1.25em;
      color:black;
-     background-color: yellow;
+     color:rgb(31, 124, 201);
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
@@ -102,7 +102,7 @@ tfoot
 {
     font-size: 0.75em;
     color:black;
-    background-color: yellow; 
+    color:rgb(31, 124, 201);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -115,7 +115,7 @@ label
 input
 {
     font-size: 15px;
-    color: yellow;
+    color:rgb(31, 124, 201);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 figcaption
@@ -140,5 +140,5 @@ form
 .autor
 {
 font-size: 2em;
-color: yellow;
+color:rgb(31, 124, 201);
 }
