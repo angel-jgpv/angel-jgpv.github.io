@@ -1,0 +1,70 @@
+body{
+    background-color:#91bcb3;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 20px;
+}
+header h1{
+    color: white;
+}
+nav ul {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    list-style:none;
+}
+
+nav li {
+    margin: 8px;
+    padding: 20px;
+}
+#linha-horizontal {
+    width: 1540px;
+    border: 1px solid hsl(160, 84%, 13%);
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+figcaption{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    color: black;
+}
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+    color: black;
+}
+img{
+    display: block;
+    margin: 0px auto;
+}
+    header h1{
+    text-align: center;
+}
+main img{
+    width: 400px;
+}
+#Florainfo p {
+    text-align: center;
+}
+#Florainfo2 h2 {
+    text-align: center
+}
+#FaunaEinfo h2{
+    text-align: center;
+}
+#FaunaEinfo p {
+    text-align: center;
+}

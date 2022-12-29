@@ -21,13 +21,10 @@ header h1 {
 nav ul {
     display:flex;
     flex-direction: row;
-    justify-content:space-between;
-    list-style:none;
 }
 
 nav li {
-    margin: 8px;
-    padding: 20px;
+    margin: 10px;
 }
 
 nav a {
