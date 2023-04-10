@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cálculo da média</title>
+</head>
+<body>
+    <header>
+        <h3>Sistema de cálculo de média</h3>
+        <p>Preencha os dados do aluno</p>
+    </header>
+    <main>
+        <form action="processaDados.php" method="Post">
+            <label for="nome">Nome:</label>
+            <input type="text" name="nome" maxlength="20" size="10" required>
+            <label for="nota1">Nota 1:</label>
+            <input type="number" min="0" max="10" step="0.1" name="nota1" required>
+            <label for="nota2">Nota 2:</label>
+            <input type="number" min="0" max="10" step="0.1" name="nota2" required>
+            <input type="submit" value="calcular"> <input type="reset" value="limpar">
+        </form> <hr>
+    </main>
+</body>
+</html>

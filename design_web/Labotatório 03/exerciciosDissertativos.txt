@@ -1,0 +1,7 @@
+4) Explique a diferença entre for e while.
+    
+5) Todo for pode ser substituído por while? 
+
+6) Todo while pode ser substituído por for? 
+
+7) Explique a diferença entre while e do while.
