@@ -1,0 +1,23 @@
+input[type="password"] {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid gray;
+}
+#feedback {
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+#fraca {
+    background-color: red;
+}
+#moderada {
+    background-color: orange;
+}
+#forte {
+    background-color: green;
+}

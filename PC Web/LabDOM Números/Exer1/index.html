@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratório de JavaScript - DOM - Números</title>
+    <script src="scripts.js" defer></script>
+</head>
+    <body>
+        <form>
+            <h1>Exercício 1 - Soma de Números</h1>
+            <hr>
+                <label for="n1">Primeiro Número: </label>
+                    <input type="number" id="n1" step="0.1" required><br>
+                <label for="n2">Segundo Número: </label>
+                    <input type="number" id="n2" step="0.1" required><br>
+                <button type="button" onclick="soma()">Soma </button>
+                <!--O onclick="soma()" é um atributo de evento HTML que é adicionado a um elemento 
+                button e usado para  executar uma função  chamada soma() quando o botão é clicado.-->
+                <!--Quando o usuário clica no botão " soma", o navegador executa a função soma() que foi definida no código JavaScript. 
+                A função lê os valores dos campos de entrada, calcula a soma dos dois números e atualiza o texto do elemento h2 com o resultado.-->
+        </form>
+            <p id="resultado"></p>
+    </body>
+</html>

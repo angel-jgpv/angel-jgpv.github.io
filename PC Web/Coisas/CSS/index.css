@@ -1,0 +1,38 @@
+html[dark]{
+    background-color: black;
+}
+h1
+{
+    font-size: 3.0em;
+    text-align: center;
+    color:rgb(31, 124, 201);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2
+{
+    font-size: 2.5em;
+    color:rgb(31, 124, 201);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img {
+    background-image: url(../Imagem/sla.gif);
+   }
+.animegirl {
+    text-align: center;
+}
+
+li
+{
+    font-size: 1.25em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(2, 45, 80);
+}
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color:rgb(31, 124, 201);
+    transform: 0.5s;
+}
+
+
